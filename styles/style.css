@@ -341,6 +341,10 @@ body {
 }
 
 /* Pricing Section */
+.gap {
+    gap: 16px;
+}
+
 .pricing-section {
     padding: 80px 0;
 }
@@ -499,7 +503,7 @@ body {
 .final-cta h2 {
     font-size: clamp(2rem, 4vw, 3rem);
     font-weight: 900;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 .decision-grid {
